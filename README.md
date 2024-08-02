@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/DivyanshiSharma15/Projects/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyanshiSharma15/Projects/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DivyanshiSharma15/Projects/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyanshiSharma15/Projects/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DivyanshiSharma15/Projects/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,5 +45,10 @@
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
