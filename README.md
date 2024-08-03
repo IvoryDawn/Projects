@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/DivyanshiSharma15/Projects/tree/master/0238-product-of-array-except-self) |
+| [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Two Pointers
