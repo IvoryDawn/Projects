@@ -6,6 +6,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/DivyanshiSharma15/Projects/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/DivyanshiSharma15/Projects/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
@@ -16,6 +17,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
