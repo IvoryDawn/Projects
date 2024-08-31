@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/DivyanshiSharma15/Projects/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
@@ -41,6 +43,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
@@ -59,6 +62,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -66,6 +70,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
