@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DivyanshiSharma15/Projects/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/DivyanshiSharma15/Projects/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DivyanshiSharma15/Projects/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
