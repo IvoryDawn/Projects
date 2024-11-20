@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/IvoryDawn/Projects/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
