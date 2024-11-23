@@ -44,6 +44,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/DivyanshiSharma15/Projects/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DivyanshiSharma15/Projects/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DivyanshiSharma15/Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/IvoryDawn/Projects/tree/master/0908-middle-of-the-linked-list) |
@@ -80,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
