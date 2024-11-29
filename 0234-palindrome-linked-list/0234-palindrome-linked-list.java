@@ -1,50 +1,55 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
-    public ListNode findMiddle(ListNode head){
+    public ListNode findMiddle(ListNode head) {
         // Find the middle node
         ListNode slow = head;
         ListNode fast = head;
-        while(fast.next != null && fast.next.next != null){
+        while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        return slow;
+        return slow;  // Return the middle node
     }
-    public ListNode reverse(ListNode head){
+
+    public ListNode reverse(ListNode head) {
         // Reverse the list
         ListNode curr = head;
         ListNode prev = null;
-        while(curr != null){
-            ListNode next = curr.next;  // Store next node value
-            curr.next = prev;  // Make previuos value curr.next
-            prev = curr;  // Make current node previous
-            curr = next;  // Update current node
+        while (curr != null) {
+            ListNode next = curr.next;  // Store the next node
+            curr.next = prev;  // Reverse the link
+            prev = curr;  // Move the previous pointer forward
+            curr = next;  // Move the current pointer forward
         }
-        return prev;  // Returns the strting of the list
+        return prev;  // Return the new head of the reversed list
     }
+
     public boolean isPalindrome(ListNode head) {
-        if(head.next == null || head == null){  // If list is empty or has only 1 node
+        if (head == null || head.next == null) {  // If the list is empty or has only one node
             return true;
-        }        
-        ListNode mid = findMiddle(head);  // Store middle node
-        ListNode secHalf = reverse(mid.next);  // Reverse the ;ist after middle node
-        ListNode firHalf = head; 
-        while(secHalf != null){  // Chec only for secHalf to reduce time
-            if(firHalf.val != secHalf.val){  // Check whether values are equal or not
-                return false; 
-            }
-            secHalf = secHalf.next;
-            firHalf = firHalf.next;
         }
-        return true;
+
+        // Step 1: Find the middle node
+        ListNode mid = findMiddle(head);
+
+        // Step 2: Reverse the second half of the list
+        ListNode secHalf = reverse(mid);
+
+        // Step 3: Compare the first and second halves
+        ListNode firHalf = head;
+        ListNode temp = secHalf;  // Store the reversed half for restoration later (optional)
+        boolean isPalindrome = true;
+        while (secHalf != null) {
+            if (firHalf.val != secHalf.val) {
+                isPalindrome = false;
+                break;
+            }
+            firHalf = firHalf.next;
+            secHalf = secHalf.next;
+        }
+
+        // Step 4 (Optional): Restore the original list
+        reverse(temp);
+
+        return isPalindrome;
     }
 }
