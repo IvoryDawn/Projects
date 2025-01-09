@@ -118,5 +118,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
