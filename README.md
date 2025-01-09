@@ -20,6 +20,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyanshiSharma15/Projects/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DivyanshiSharma15/Projects/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
