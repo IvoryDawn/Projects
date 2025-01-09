@@ -89,6 +89,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,9 +120,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
