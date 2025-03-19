@@ -16,6 +16,7 @@
 | [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/IvoryDawn/Projects/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyanshiSharma15/Projects/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IvoryDawn/Projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/DivyanshiSharma15/Projects/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyanshiSharma15/Projects/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -74,6 +75,7 @@
 | [0414-third-maximum-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/DivyanshiSharma15/Projects/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/IvoryDawn/Projects/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IvoryDawn/Projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Two Pointers
@@ -95,6 +97,7 @@
 | [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IvoryDawn/Projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/IvoryDawn/Projects/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
