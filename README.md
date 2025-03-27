@@ -21,6 +21,7 @@
 | [0941-sort-array-by-parity](https://github.com/IvoryDawn/Projects/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/IvoryDawn/Projects/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/IvoryDawn/Projects/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/IvoryDawn/Projects/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DivyanshiSharma15/Projects/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DivyanshiSharma15/Projects/tree/master/1646-kth-missing-positive-number) |
@@ -83,6 +84,7 @@
 | [0941-sort-array-by-parity](https://github.com/IvoryDawn/Projects/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/IvoryDawn/Projects/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/IvoryDawn/Projects/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/IvoryDawn/Projects/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Two Pointers
@@ -98,6 +100,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/IvoryDawn/Projects/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/IvoryDawn/Projects/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/IvoryDawn/Projects/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/IvoryDawn/Projects/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DivyanshiSharma15/Projects/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/IvoryDawn/Projects/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
