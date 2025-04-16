@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/DivyanshiSharma15/Projects/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/IvoryDawn/Projects/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DivyanshiSharma15/Projects/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/IvoryDawn/Projects/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/DivyanshiSharma15/Projects/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/IvoryDawn/Projects/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/DivyanshiSharma15/Projects/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/IvoryDawn/Projects/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IvoryDawn/Projects/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IvoryDawn/Projects/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/IvoryDawn/Projects/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IvoryDawn/Projects/tree/master/0215-kth-largest-element-in-an-array) |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/IvoryDawn/Projects/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
