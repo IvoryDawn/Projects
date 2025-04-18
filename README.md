@@ -164,6 +164,7 @@
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/IvoryDawn/Projects/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/IvoryDawn/Projects/tree/master/1797-goal-parser-interpretation) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
