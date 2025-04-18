@@ -33,6 +33,7 @@
 | [1646-kth-missing-positive-number](https://github.com/DivyanshiSharma15/Projects/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/IvoryDawn/Projects/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyanshiSharma15/Projects/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IvoryDawn/Projects/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/IvoryDawn/Projects/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IvoryDawn/Projects/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/IvoryDawn/Projects/tree/master/1797-goal-parser-interpretation) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/IvoryDawn/Projects/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
