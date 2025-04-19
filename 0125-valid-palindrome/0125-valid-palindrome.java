@@ -3,10 +3,11 @@ class Solution {
         StringBuilder obj1 = new StringBuilder();
         s = s.toLowerCase();
         for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) >= '0' && s.charAt(i) <= '9' || s.charAt(i) >= 'a' && s.charAt(i) <= 'z'){
+            if(Character.isLetterOrDigit(s.charAt(i))){
                 obj1.append(s.charAt(i));
             }
         }
-        return obj1.toString().equals(obj1.reverse().toString());
+        String obj2 = new StringBuilder(obj1).reverse().toString();
+        return obj1.toString().equals(obj2);
     }
 }
