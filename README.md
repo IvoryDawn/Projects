@@ -108,6 +108,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IvoryDawn/Projects/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/IvoryDawn/Projects/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/IvoryDawn/Projects/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/IvoryDawn/Projects/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/IvoryDawn/Projects/tree/master/0234-palindrome-linked-list) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/IvoryDawn/Projects/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/IvoryDawn/Projects/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/IvoryDawn/Projects/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/IvoryDawn/Projects/tree/master/1205-defanging-an-ip-address) |
