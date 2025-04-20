@@ -125,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/IvoryDawn/Projects/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/IvoryDawn/Projects/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DivyanshiSharma15/Projects/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IvoryDawn/Projects/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/IvoryDawn/Projects/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/IvoryDawn/Projects/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/IvoryDawn/Projects/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
@@ -180,6 +182,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/IvoryDawn/Projects/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/IvoryDawn/Projects/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
